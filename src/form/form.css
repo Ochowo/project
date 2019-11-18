@@ -1,0 +1,54 @@
+*{
+    color:inherit;
+}
+.container {
+  width: 1200px;
+  padding: 2% 15px;
+  margin: auto;
+  text-align: center;
+  color:#8b8a8a;
+}
+.form {
+  width:50%;
+  border: 1px solid #b6b6b6;
+  margin: auto;
+  text-align: center;
+  border-radius:5px;
+  padding: 2% 0;
+  margin-top: 2%;
+  height: 400px;
+}
+.title {
+  color: #8b8a8a;
+}
+.sub-title {
+  font-size:8px;
+  margin-top: 0;
+  margin-bottom: 2%;
+}
+.submit{
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.submit,
+input {
+ border: 1px solid #b6b6b6;
+ border-radius: 4px;
+ padding: 1%;
+}
+
+.submit{
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+button {
+border-color: #b6b6b6;
+padding: 1% 5%;
+background-color: transparent;
+}
+.error {
+  color: red;
+  font-size:10px;
+  margin-bottom: 2%;
+}

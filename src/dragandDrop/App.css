@@ -1,0 +1,22 @@
+.container {
+  border: 1px solid lightgrey;
+  border-radius: 2px;
+  padding: 8px;
+  margin-bottom: 8px;
+}
+.taskList {
+  padding: 8px;
+  flex-grow: 1;
+  min-height: 100px;
+  
+  display: flex;
+  width:100%;
+  flex-wrap: wrap;
+}
+.title {
+  padding: 8px;
+}
+.task{
+  
+  width:20%;
+}

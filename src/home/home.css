@@ -1,0 +1,9 @@
+a {
+    color: inherit;
+    font-size: 20px;
+    margin-top: 3%;
+}
+.new-container {
+    background-color: transparent;
+    border:none
+}
